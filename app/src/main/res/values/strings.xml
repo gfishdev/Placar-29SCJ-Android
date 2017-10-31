@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bomba Patch</string>
+    <string name="author">Desenvolvido por Guilherme Andrade</string>
+    <string name="time_da_casa">Time da Casa</string>
+    <string name="informe_o_nome_do_time_da_casa">Informe o nome do time da casa</string>
+    <string name="time_da_visitante">Time da Visitante</string>
+    <string name="informe_o_nome_do_time_visitante">Informe o nome do time visitante</string>
+    <string name="iniciar_jogo">Iniciar jogo</string>
+    <string name="gol">Gol</string>
+</resources>
